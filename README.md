@@ -1,73 +1,26 @@
-# Welcome to your Lovable project
+<div align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Harsh+Kumar;Web+Developer;Blogger"/>
+</div>
 
-## Project info
+<p align="center">
+ Frontend Developer @Not Your LLP • React JS • Javascript • Ex @GeeksforGeeks • Ex @Scaler • BEU Patna
+</p>
 
-**URL**: https://lovable.dev/projects/a8b43d43-e674-42ee-976d-101248105558
+<p align="center">  
+ <img src="https://komarev.com/ghpvc/?username=coder-harsh&color=green" alt="coderharsh" />
+ <img src="https://img.shields.io/github/followers/coder-harsh?label=followers&style=social"/>
+</p>
+ <p align="center"> <a href="https://twitter.com/harsh2august" target="blank"><img src="https://img.shields.io/twitter/follow/harsh2august?logo=twitter&style=for-the-badge" alt="coderharsh" /></a> </p>
+ 
+<p align="justify">Harsh Kumar is a Front-end Developer at Creators Mind. I have strong technical skills in working with React JS and Javascript and I am an ECE graduate of 2019-23 batch from Govt. Purnea College Of Engineering. I love building products to solve real-world problems.
 
-## How can I edit this code?
+<br>
+<p>
+I have created several web development projects. I secured 3rd Position in the National Science Day Project Exhibition organised by Bihar Council Of Science & Technology.
 
-There are several ways of editing your application.
+Please feel free to get in touch with me via [Email](mailto:harshj7.net@gmail.com) or visit my [Personal Website](https://about.coderharsh.in)</p>
 
-**Use Lovable**
+<h3 align="center">Get in touch</h3>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a8b43d43-e674-42ee-976d-101248105558) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a8b43d43-e674-42ee-976d-101248105558) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- Read my latest [Blog](https://coderharsh.in/)
+</p>
